@@ -1,6 +1,6 @@
 ---
 title: "#walktowork"
-date: 2020-01-29 14:00:05.230000000 Z
+date: 2020-01-29 14:00:05 Z
 '': "#walktowork"
 ---
 
