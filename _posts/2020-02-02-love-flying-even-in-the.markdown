@@ -1,6 +1,6 @@
 ---
 title: Love flying even in the ☔
-date: 2020-02-02 10:33:16.384000000 Z
+date: 2020-02-02 10:33:16 Z
 '': Love flying even in the ☔
 ---
 
