@@ -1,6 +1,6 @@
 ---
 title: "Peterborough - not much more to say on the subject \U0001F611"
-date: 2020-01-29 15:27:46.079000000 Z
+date: 2020-01-29 15:27:46 Z
 '': "Peterborough - not much more to say on the subject \U0001F611"
 ---
 
