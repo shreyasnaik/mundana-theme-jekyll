@@ -1,6 +1,6 @@
 ---
 title: "#walktowork yes really 5am Newcastle Airport ✈️"
-date: 2020-02-02 06:00:45.633000000 Z
+date: 2020-02-02 06:00:45 Z
 '': "#walktowork yes really 5am Newcastle Airport ✈️"
 ---
 
