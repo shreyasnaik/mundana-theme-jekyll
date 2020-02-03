@@ -1,7 +1,7 @@
 ---
 title: 'Love the peace of a good long haul flight. #walktowork #Microsoft #Seattle
   #WinterReady'
-date: 2020-02-03 02:11:01.743000000 Z
+date: 2020-02-03 02:11:01 Z
 '': 'Love the peace of a good long haul flight. #walktowork #Microsoft #Seattle #WinterReady'
 ---
 
