@@ -1,6 +1,6 @@
 ---
 title: 'Cleanest alleyways I''ve seen on my #walktowork'
-date: 2020-02-04 16:45:32.970000000 Z
+date: 2020-02-04 16:45:32 Z
 '': 'Cleanest alleyways I''ve seen on my #walktowork'
 ---
 
