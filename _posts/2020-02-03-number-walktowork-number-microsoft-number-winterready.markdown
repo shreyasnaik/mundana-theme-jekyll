@@ -1,6 +1,6 @@
 ---
 title: "#walktowork #Microsoft #WinterReady"
-date: 2020-02-03 16:21:30.185000000 Z
+date: 2020-02-03 16:21:30 Z
 '': "#walktowork #Microsoft #WinterReady"
 ---
 
