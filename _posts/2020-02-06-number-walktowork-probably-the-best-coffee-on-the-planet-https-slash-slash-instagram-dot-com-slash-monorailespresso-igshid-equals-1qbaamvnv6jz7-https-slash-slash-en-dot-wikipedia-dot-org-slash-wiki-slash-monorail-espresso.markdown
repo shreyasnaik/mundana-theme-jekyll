@@ -1,7 +1,7 @@
 ---
 title: "#walktowork probably the best coffee on the planet https://instagram.com/monorailespresso?igshid=1qbaamvnv6jz7
   https://en.wikipedia.org/wiki/Monorail_Espresso"
-date: 2020-02-06 12:07:16.418000000 Z
+date: 2020-02-06 12:07:16 Z
 '': "#walktowork probably the best coffee on the planet https://instagram.com/monorailespresso?igshid=1qbaamvnv6jz7
   https://en.wikipedia.org/wiki/Monorail_Espresso"
 ---
