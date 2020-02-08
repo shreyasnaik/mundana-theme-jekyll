@@ -1,6 +1,6 @@
 ---
 title: "More of a pre work run than a #walktowork ☔☔\U0001F3C3"
-date: 2020-02-07 13:24:23.614000000 Z
+date: 2020-02-07 13:24:23 Z
 '': "More of a pre work run than a #walktowork ☔☔\U0001F3C3"
 ---
 
