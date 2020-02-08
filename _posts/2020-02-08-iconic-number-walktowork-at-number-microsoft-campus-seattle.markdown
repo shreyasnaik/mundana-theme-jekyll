@@ -1,6 +1,6 @@
 ---
 title: "Iconic #walktowork at #Microsoft Campus Seattle \U0001F60A"
-date: 2020-02-08 17:18:06.449000000 Z
+date: 2020-02-08 17:18:06 Z
 '': "Iconic #walktowork at #Microsoft Campus Seattle \U0001F60A"
 ---
 
