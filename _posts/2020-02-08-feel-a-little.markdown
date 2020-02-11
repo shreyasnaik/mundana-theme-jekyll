@@ -1,6 +1,6 @@
 ---
 title: "Feel a little \U0001F922"
-date: 2020-02-08 20:21:44.224000000 Z
+date: 2020-02-08 20:21:44 Z
 '': "Feel a little \U0001F922"
 ---
 
