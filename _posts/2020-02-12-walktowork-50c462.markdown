@@ -1,6 +1,6 @@
 ---
 title: WalkToWork
-date: 2020-02-12 13:22:05.152000000 Z
+date: 2020-02-12 13:22:05 Z
 ---
 
  http://pbs.twimg.com/profile_images/1200120832414142465/L_Bojb-w_normal.jpgCertificate management is hard work but much easier in #azure cloud #MSFTAdvocate https://t.co/4Uc8gIHe6i
