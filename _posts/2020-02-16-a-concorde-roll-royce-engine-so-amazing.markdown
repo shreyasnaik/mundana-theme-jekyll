@@ -1,6 +1,6 @@
 ---
 title: "A Concorde Roll-Royce Engine \U0001F92F\U0001F924 so amazing."
-date: 2020-02-16 16:26:07.431000000 Z
+date: 2020-02-16 16:26:07 Z
 '': "A Concorde Roll-Royce Engine \U0001F92F\U0001F924 so amazing."
 ---
 
