@@ -1,6 +1,6 @@
 ---
 title: 'Empty shopping mall are the best #zombieland'
-date: 2020-02-16 09:30:02.180000000 Z
+date: 2020-02-16 09:30:02 Z
 '': 'Empty shopping mall are the best #zombieland'
 ---
 
