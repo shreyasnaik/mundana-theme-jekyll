@@ -1,6 +1,6 @@
 ---
 title: WalkToWork
-date: 2021-03-13 11:52:04.496000000 Z
+date: 2021-03-13 11:52:04 Z
 ---
 
  http://pbs.twimg.com/profile_images/1200120832414142465/L_Bojb-w_normal.jpg#MSFTAdvocate #azure #security https://t.co/5GeLRYoKpw
